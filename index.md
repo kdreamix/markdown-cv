@@ -2,8 +2,8 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ying Kit Mak
+Android developer, Kotlin lover, Crafter.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -12,15 +12,26 @@ Physicist, Mathematician, Cambridge professor.
 
 
 ## Currently
+`2018 May - now`
+__Android developer @ Doki__
+- Build Doki Pal software, an android launcher for smart watch from scratch using Kotlin. 
+- Revamp an android companion app for Doki Pal
 
-Standing on the shoulders of giants
+`2017 Aug - 2018 mar`
+__Android developer @ Legato__
+
+`2016 Summer`
+__Internship @ Air-button__
+
 
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
+### Projects
 
-### Research interests
+
+### Interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
