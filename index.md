@@ -31,7 +31,7 @@ Coding, inline skating, specialty coffee
 
 `2013-2017`
 __City University of Hong Kong__
-Information Engineering
+Bachelor of Engineering, Information Engineering
 
 `2007-2013`
 __Wong Shiu Chi Secondary School__
