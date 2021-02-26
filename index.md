@@ -1,102 +1,44 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
+
 # Ying Kit Mak
-Android developer, Kotlin lover, Crafter.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+Software enginneer @google
+- Email: wwwyingkit@gmail.com
+- Phone: +852 68756659
 
 ## Currently
+`2021 Feb - now`
+__Software Engineer @ Google__
+
+`2019 Nov - 2021 Jan`
+__Senior software engineer @ Fitbit__
+- Worked on an android companion app for new generation smartwatch
+
 `2018 May - now`
 __Android developer @ Doki__
-- Build Doki Pal software, an android launcher for smart watch from scratch using Kotlin. 
-- Revamp an android companion app for Doki Pal
+- Created an android launcher app for a kid smartwatch, worked on it's companion app.
 
 `2017 Aug - 2018 mar`
-__Android developer @ Legato__
-
-`2016 Summer`
-__Internship @ Air-button__
-
+__Android developer @ Legato__ 
+- Worked on various apps, eg. Building defects record system app, food menu app and an magazine app
 
 ### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-### Projects
-
+Android apps development
 
 ### Interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Coding, inline skating, specialty coffee
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__City University of Hong Kong__
+Information Engineering
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2007-2013`
+__Wong Shiu Chi Secondary School__
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2021 -->
 
 
