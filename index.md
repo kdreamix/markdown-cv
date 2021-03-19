@@ -14,7 +14,7 @@ __Senior software engineer @ Fitbit__
 - Worked on an android companion app for new generation smartwatch
 
 `2018 May - 2019 Nov`
-__Android developer @ Doki__
+__Software developer @ Doki__
 - Created an android launcher app for a kid smartwatch, worked on it's companion app.
 
 `2017 Aug - 2018 mar`
